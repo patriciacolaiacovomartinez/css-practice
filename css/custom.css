@@ -1,0 +1,97 @@
+/*Q1*/ 
+.logo {
+    color: red;
+}
+/*Q2*/
+.menu-item {
+    color: green;
+}
+/*Q3*/
+.menu-item:visited {
+    color: #444;
+}
+/*Q4*/
+.above-the-fold {
+    color: white;
+}
+/*Q5*/
+.above-the-fold button{
+    color: white;
+    background-color: lightgreen;
+}
+/*Q6*/
+article p::first-letter{
+    margin-left: 30px;
+}
+/*7*/
+#blog {
+    background-color: #666;
+    color: #cff;
+}
+/*8*/
+.gallery figure:hover {
+box-shadow: 10px 10px 10px grey;
+}
+
+/*9*/
+.gallery figcaption {
+    padding: 8px;
+}
+/*Q10*/
+
+
+
+/*Q11*/
+article {
+    margin-top: 40px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Q12*/
+.article-title{
+    text-align: center;
+}
+/*Q13*/
+h2{
+    text-transform: uppercase;
+}
+/*Q14*/
+.form-input {
+    display: block;
+}
+/*Q15*/
+.form-input {
+    margin-top: 30px;
+    
+}
+/*Q16*/
+form input {
+    padding: 10px;
+}
+/*Q17*/
+footer{
+    background-color: rgb(134, 129, 129);
+    color: #edaa25;
+}
+/*Q18*/
+.form-input:focus {
+    border-width: 4px solid black;
+}
+/*Q19*/
+section h2::before {
+    content: ">";
+    margin-right: 4px;
+}
+/*Q20*/
+.form-input[type="radio"]{
+    margin: 0px 5px 0px 20px;
+    
+}
+
+
+
+
+
+
